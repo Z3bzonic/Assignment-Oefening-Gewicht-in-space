@@ -14,5 +14,12 @@ gewicht[8]= gewichtOpAarde * 0.06;
 
 for (int i = 0; i < gewicht.Length; i++)
 {
+
+    if (planeet[i] == "Jupiter")
+    { Console.ForegroundColor = ConsoleColor.Red; }
+    else if (planeet[i] == "Pluto")
+    { Console.ForegroundColor = ConsoleColor.Green; }
+    else
+    {Console.ForegroundColor = ConsoleColor.White; }
     Console.WriteLine($"Je weegt op {planeet[i]} {gewicht[i]} kg.");
 }
