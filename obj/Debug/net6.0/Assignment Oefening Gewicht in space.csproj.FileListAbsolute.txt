@@ -1,0 +1,15 @@
+Z:\repos\Assignment Oefening Gewicht in space\bin\Debug\net6.0\Assignment Oefening Gewicht in space.exe
+Z:\repos\Assignment Oefening Gewicht in space\bin\Debug\net6.0\Assignment Oefening Gewicht in space.deps.json
+Z:\repos\Assignment Oefening Gewicht in space\bin\Debug\net6.0\Assignment Oefening Gewicht in space.runtimeconfig.json
+Z:\repos\Assignment Oefening Gewicht in space\bin\Debug\net6.0\Assignment Oefening Gewicht in space.dll
+Z:\repos\Assignment Oefening Gewicht in space\bin\Debug\net6.0\Assignment Oefening Gewicht in space.pdb
+Z:\repos\Assignment Oefening Gewicht in space\obj\Debug\net6.0\Assignment Oefening Gewicht in space.csproj.AssemblyReference.cache
+Z:\repos\Assignment Oefening Gewicht in space\obj\Debug\net6.0\Assignment Oefening Gewicht in space.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\Assignment Oefening Gewicht in space\obj\Debug\net6.0\Assignment Oefening Gewicht in space.AssemblyInfoInputs.cache
+Z:\repos\Assignment Oefening Gewicht in space\obj\Debug\net6.0\Assignment Oefening Gewicht in space.AssemblyInfo.cs
+Z:\repos\Assignment Oefening Gewicht in space\obj\Debug\net6.0\Assignment Oefening Gewicht in space.csproj.CoreCompileInputs.cache
+Z:\repos\Assignment Oefening Gewicht in space\obj\Debug\net6.0\Assignment Oefening Gewicht in space.dll
+Z:\repos\Assignment Oefening Gewicht in space\obj\Debug\net6.0\refint\Assignment Oefening Gewicht in space.dll
+Z:\repos\Assignment Oefening Gewicht in space\obj\Debug\net6.0\Assignment Oefening Gewicht in space.pdb
+Z:\repos\Assignment Oefening Gewicht in space\obj\Debug\net6.0\Assignment Oefening Gewicht in space.genruntimeconfig.cache
+Z:\repos\Assignment Oefening Gewicht in space\obj\Debug\net6.0\ref\Assignment Oefening Gewicht in space.dll
